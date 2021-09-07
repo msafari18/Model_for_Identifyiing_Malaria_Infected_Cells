@@ -1,2 +1,2 @@
-# Model_for_Identifyiing_Malaria_Infected_Cells
-Deep Learning model for identifying Malaria Infected cells in bright field microscopy images 
+# Model for Identifyiing Malaria Infected Cells
+Implementation of RCNN and U-net models for identifying Malaria Infected cells in bright field microscopy images.
